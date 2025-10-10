@@ -4,7 +4,7 @@
 
 <!-- Place a picture here once possible -->
 
-# Quick Links
+## Quick Links
 
 - ### [🌍 Website](https://stoat.chat): The official Stoat website.
 - ### [⬇ Downloads](https://stoat.chat/download): Download Stoat for your platform.
@@ -17,9 +17,9 @@
   <!-- - ### [⬅️ Pull Requests](https://github.com/orgs/stoatchat/projects/5/views/1): GitHub pull request overview. -->
   <!-- - ### [🕓 Roadmap](https://github.com/orgs/stoatchat/projects/6/views/4): High-level product roadmap. -->
 
-# Repositories
+## Repositories
 
-## Clients
+### Clients
 
 Here are clients being maintained under Stoat's organisation:
 
@@ -33,7 +33,7 @@ Here are clients being maintained under Stoat's organisation:
 
 You can find additional third-party clients [on the community wiki](https://wiki.stt.gg/index.php/Clients).
 
-## Server Software
+### Server Software
 
 Below is a list of all the repositories relevant to developing the core Stoat service.
 
@@ -45,7 +45,7 @@ Below is a list of all the repositories relevant to developing the core Stoat se
 <!-- | [rfcs](https://github.com/stoatchat/rfcs)                                   | RFCs for changes to Stoat                     | [@insertish](https://github.com/insertish) | -->
 <!-- | [api](https://github.com/stoatchat/api)                                     | JavaScript API library                        | [@insertish](https://github.com/insertish) | -->
 
-## Everything Else
+### Everything Else
 
 Here is a list of important repositories and who is managing each.
 
