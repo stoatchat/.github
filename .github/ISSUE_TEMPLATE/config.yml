@@ -1,0 +1,10 @@
+contact_links:
+  - name: Developer Stoat Server
+    url: https://stt.gg/API
+    about: Ask questions and discuss with others.
+  - name: Stoat Support
+    url: https://support.stoat.chat/
+    about: See official resources for help with using Revolt or contacting the team.
+  - name: Discussions
+    url: https://github.com/orgs/stoatchat/discussions
+    about: For larger feature requests and general question & answer.
