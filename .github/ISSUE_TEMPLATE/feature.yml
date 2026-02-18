@@ -7,7 +7,7 @@ body:
       value: |
         Think you've got a good feature? Suggest it below!
   - type: textarea
-    id: feauture-request
+    id: feature-request
     attributes:
       label: Describe your feature
     validations:
