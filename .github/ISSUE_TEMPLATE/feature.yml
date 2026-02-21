@@ -1,0 +1,14 @@
+name: Feature Request
+description: Request a feature
+type: Feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Think you've got a good feature? Suggest it below!
+  - type: textarea
+    id: feature-request
+    attributes:
+      label: Describe your feature
+    validations:
+      required: true
