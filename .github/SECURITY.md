@@ -12,6 +12,11 @@ You should not report anything that requires physical access to a client machine
 - Intercepting requests to visually affect client privilege (and not actual server privilege)
 - Exfiltration of user credentials through third party sites
 
+Also of note, we do not accept AI-written security disclosures. If the bug is valid, we will still patch it, but you will not receive credit.
+You can avoid this by writing the security disclosure yourself!
+Discovery of security issues via AI is acceptable, as long as you have written the disclosure and have manually verified the problem (and fix, if provided).
+The writer of the disclosure will get the credit. If we have to rewrite the disclosure because you had AI write it, you will not receive the credit.
+
 ## Disclosure
 
 You may disclose security vulnerabilities to us in two different ways:
