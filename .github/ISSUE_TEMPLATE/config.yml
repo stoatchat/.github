@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 contact_links:
   - name: Developer Stoat Server
     url: https://stt.gg/API
@@ -8,3 +9,6 @@ contact_links:
   - name: Discussions
     url: https://github.com/orgs/stoatchat/discussions
     about: For larger feature requests and general question & answer.
+  - name: Feature Requests
+    url: https://github.com/orgs/stoatchat/discussions
+    about: Request a feature
