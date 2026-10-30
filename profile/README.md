@@ -55,7 +55,6 @@ Here is a list of important repositories and who is managing each.
 | [stoat.chat](https://github.com/stoatchat/stoat.chat)                   | Landing page                               |          [@infi](https://github.com/infi)          |
 | [service-admin-panel](https://github.com/stoatchat/service-admin-panel) | Service administration tool                |                                                    |
 | [self-hosted](https://github.com/stoatchat/self-hosted)                 | Docker Compose Configuration               | [@Dadadah](https://github.com/Dadadah), [@chrishultin](https://github.com/chrishultin) |
-| [translations](https://github.com/stoatchat/translations)               | Client translations                        | [@DeclanChidlow](https://github.com/DeclanChidlow) |
 | [javascript-genemoji](https://github.com/stoatchat/javascript-genemoji) | Emoji pack structure unification toolchain |          [@infi](https://github.com/infi)          |
 
 <!-- | [legal](https://github.com/stoatchat/legal)                             | Legal documents                            |     [@insertish](https://github.com/insertish)     | -->
